@@ -1,0 +1,38 @@
+Job Title: Lead DevOps Platform Engineer – Kubernetes Focus
+Location: [Insert Location or Remote]
+Job Type: Full-Time
+About the Role:
+We are seeking a highly skilled Lead DevOps Engineer to drive and scale our infrastructure, with a primary focus on Kubernetes orchestration and cloud-native technologies. In this leadership role, you will architect, implement, and manage our containerized environments, ensuring performance, security, and reliability for critical applications and services.
+Key Responsibilities:
+•	Lead the design, implementation, and maintenance of scalable Kubernetes-based infrastructure.
+•	Architect and manage CI/CD pipelines that enable automated testing, deployment, and monitoring of microservices.
+•	Define and enforce best practices for containerization, infrastructure as code (IaC), and Kubernetes operations.
+•	Collaborate with development, security, and operations teams to build resilient and secure cloud-native solutions.
+•	Drive improvements in observability, including logging, metrics, and alerting using tools like Prometheus, Data Dog, or similar.
+•	Manage and mentor a team of DevOps engineers, ensuring technical growth and consistent delivery.
+•	Own and maintain Helm charts, Kubernetes manifests, and automation scripts for multi-environment deployments.
+•	Troubleshoot and resolve complex issues in cloud and containerized environments.
+•	Stay up to date with industry trends, tools, and Kubernetes CNCF ecosystem advancements.
+Required Qualifications:
+•	7+ years of experience in DevOps, Site Reliability Engineering, or Infrastructure Engineering.
+•	4+ years of hands-on Kubernetes experience in a production-grade environment (EKS, GKE, AKS, or self-managed clusters).
+•	Deep knowledge of Docker, Helm, and Kubernetes components (e.g., controllers, CRDs, networking, RBAC).
+•	Strong proficiency with Infrastructure as Code tools (Terraform, Anisble or similar).
+•	Expertise in CI/CD tools like Jenkins, GitHub Actions, Azure DevOps, or GitLab CI.
+•	Proficient in scripting and automation (Python, Bash, Powershell).
+•	Experience with cloud platforms such as AWS, Azure, or GCP.
+•	Familiarity with service mesh (e.g., Istio or Linkerd) and Kubernetes security best practices.
+•	Strong problem-solving skills and ability to work independently and in a team.
+•	Excellent communication and collaboration skills.
+Preferred Qualifications:
+•	Certified Kubernetes Administrator (CKA) or Certified Kubernetes Application Developer (CKAD).
+•	Certified in Azure, Azure ADO, Azure Architecure, Azure DevOps, Azure security practices
+•	Experience managing high-availability, multi-region clusters.
+•	Background in monitoring, logging, and incident response processes.
+•	Experience with GitOps tools like Argo CD or Flux.
+Why Join Us:
+•	Work on cutting-edge cloud-native technologies with real impact.
+•	Be part of a collaborative, forward-thinking team.
+•	Competitive compensation and benefits.
+•	Opportunities for growth, certifications, and leadership development.
+
