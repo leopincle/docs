@@ -37,14 +37,19 @@ Why Join Us:
 •	Opportunities for growth, certifications, and leadership development.
 
 
-Experience working with Jenkins to build and maintain CI/CD pipelines. I have designed pipeline-as-code using Jenkins and GitHub Actions, integrated them with tolls like GitHub, Docker, and Kubernetes to automate build, test, and deployment processes. Pulled automated package. 
-I have implemented CI/CD pipelines integrating Azure DevOps and GitHub Actions, enabling automated build, test, and deployment processes for Kubernetes-based applications.
-I am proficient in using Terraform to define and manage infrastructure as code. I have automated the provisioning and configuration of cloud resources, ensuring scalability, and reliability. Provisioned and managed Azure, and AWS infrastructure applying IaC principles for repeatable and auditable environments. 
-Extensive experience in AWS technologies including EC2, S3, IAM, Lambda, RDS, and CloudFormation, with a focus on automation, and best practices for cloud architecture.
-Solid knowledge in Docker for containerization, enabling streamlined development, testing and deployment processes across environments.
-Managed, optimized, and maintained SQL Server databases, ensuring HA, performance tuning, backup and recovery strategies, and troubleshooting critical issues.
-Supporting Kubernetes-based platforms, containerized microservices across multiple environments (dev, staging, production).
-I have implemented observability and monitoring strategies, integrating metrics, logging, and alerting using tolls such as Prometheus, Grafana, and cloud-native solutions.
-Designed and operated AKS, and EKS clusters, ensuring HA, scalability, and secure deployment.
+
+• Designed, implemented, and maintained CI/CD pipelines using Jenkins and GitHub Actions, enabling automated build, test, and deployment workflows integrated with GitHub, Docker, and Kubernetes.
+• Implemented cloud-native CI/CD pipelines leveraging Azure DevOps and GitHub Actions to support Kubernetes-based application deployments across multiple environments.
+• Provisioned and managed AWS and Azure infrastructure using Terraform, applying Infrastructure as Code (IaC) principles to ensure scalable, repeatable, and auditable environments.
+• Extensive experience with AWS services including EC2, S3, IAM, Lambda, and RDS, applying automation and best practices for secure and reliable cloud architectures.
+• Built and maintained containerized workloads using Docker, enabling consistent development and deployment workflows integrated with Kubernetes platforms.
+• Operated and supported Kubernetes-based platforms running containerized microservices across development, staging, and production environments.
+• Designed and operated Azure Kubernetes Service (AKS) and Amazon EKS clusters, ensuring high availability, scalability, security, and operational stability.
+• Implemented observability and monitoring solutions using Prometheus, Grafana, and cloud-native monitoring tools, improving visibility, alerting, and incident response.
+• Managed and optimized SQL Server databases, ensuring high availability, performance tuning, backup and recovery strategies, and resolution of critical incidents.
+• Provided technical leadership and mentoring to DevOps engineers, defining standards, best practices, and CI/CD strategies.
+• Collaborated with development and security teams to define platform architecture and deployment standards.
+
+
 
 
